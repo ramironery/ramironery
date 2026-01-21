@@ -3,6 +3,7 @@
 **`Desenvolvedor FullStack`**
 
 Me chamo Ramiro Nery, tenho 49 anos e sou natural de Ilhéus/Bahia. Tenho graduação em Análise e Desenvolvimento de Sistemas pela UNOPAR e Especialização/MBA em Engenharia de Software pela Universidade Estácio. Sou apaixonado por tecnologia, e estou em constante atualização dos meus conhecimentos para me manter o mais atualizado possível e alinhado com as tecnologias mais atuais.
+Neste ano de 2026 estarei atualizando este meu perfil do GitHub com minhas mais novas habilidades adquiridas.
 
 ---
 
