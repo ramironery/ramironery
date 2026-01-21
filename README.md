@@ -1,4 +1,4 @@
-## Ramiro Nery
+## 👨‍💻 Ramiro Nery
 
 **`Desenvolvedor FullStack`**
 
